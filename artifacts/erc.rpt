@@ -1,0 +1,12 @@
+ERC report (2024-07-09T23:26:10+1000, Encoding UTF8)
+
+***** Sheet /
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error (excluded)
+    @(5150.00 mils, 6700.00 mils): Symbol U7 Pin 1 [VIN, Power input, Line]
+[multiple_net_names]: Both dbg and rxd are attached to the same items; dbg will be used in the netlist
+    ; warning (excluded)
+    @(3100.00 mils, 2000.00 mils): Label 'dbg'
+    @(2100.00 mils, 2100.00 mils): Label 'rxd'
+
+ ** ERC messages: 2  Errors 1  Warnings 1
