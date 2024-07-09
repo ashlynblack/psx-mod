@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "PSX_Mod")(type "KiCad")(uri "${KIPRJMOD}/psx-mod.pretty")(options "")(descr ""))
+  (lib (name "PSX_Mod")(type "KiCad")(uri "${KIPRJMOD}/footprints")(options "")(descr ""))
 )

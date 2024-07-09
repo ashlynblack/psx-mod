@@ -301,6 +301,7 @@
 		(uuid "bb10f71d-9b2a-4a13-96a7-2782037a82e9")
 	)
 	(model "${ASH_LIBS}/models/CONN-SMD_HX-TYPE-C-16PIN.wrl"
+		(hide yes)
 		(offset
 			(xyz 0 -1.25 0)
 		)
@@ -309,6 +310,17 @@
 		)
 		(rotate
 			(xyz 0 0 0)
+		)
+	)
+	(model "/home/ashlyn/Desktop/Unnamed.wrl"
+		(offset
+			(xyz 0 -1.1 0.1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 180 0)
 		)
 	)
 )
