@@ -353,6 +353,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -431,6 +432,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -509,6 +511,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -587,6 +590,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -665,6 +669,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -1170,6 +1175,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -1248,6 +1254,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -1622,6 +1629,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -2520,6 +2528,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -2882,6 +2891,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -3600,6 +3610,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -3678,6 +3689,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -3756,6 +3768,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -3834,6 +3847,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -3912,6 +3926,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -3990,6 +4005,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -4281,6 +4297,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -4359,6 +4376,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -5078,6 +5096,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -5156,6 +5175,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -5786,6 +5806,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -5970,6 +5991,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -6048,6 +6070,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -6339,6 +6362,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -6417,6 +6441,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -6495,6 +6520,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -6912,6 +6938,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -6990,6 +7017,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -7737,6 +7765,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -8099,6 +8128,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -8283,6 +8313,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -8361,6 +8392,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -8439,6 +8471,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -9834,6 +9867,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -9912,6 +9946,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -10387,6 +10422,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -10465,6 +10501,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -11206,6 +11243,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -11497,6 +11535,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -11575,6 +11614,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -11653,6 +11693,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -12707,6 +12748,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -12785,6 +12827,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -12863,6 +12906,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -12941,6 +12985,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -13115,6 +13160,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -13193,6 +13239,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -13484,6 +13531,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -13776,6 +13824,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -13854,6 +13903,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -14158,6 +14208,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -14236,6 +14287,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -14314,6 +14366,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -14605,6 +14658,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -14896,6 +14950,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -14974,6 +15029,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -15052,6 +15108,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -15852,6 +15909,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
@@ -15930,6 +15988,7 @@
 			)
 		)
 		(zone_connect 0)
+		(attr board_only exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 0.5 0.5)
