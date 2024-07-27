@@ -64,11 +64,11 @@
 			)
 		)
 	)
-	(attr through_hole)
-	(pad "1" smd roundrect
+	(attr exclude_from_bom)
+	(pad "1" connect roundrect
 		(at 0 0)
 		(size 2 2)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask")
 		(roundrect_rratio 0.25)
 		(uuid "947c5df8-4712-446e-8606-c09c53246c48")
 	)

@@ -36,7 +36,7 @@
 
 # edge clearance
 (rule "Trace to Outline"
-	(constraint edge_clearance (min 0.3mm))
+	(constraint edge_clearance (min 0.25mm))
 	(condition "A.Type == 'track'"))
 
 # This would override board outline and milled areas

@@ -1,361 +1,4 @@
-23733064808535777
-Ashlyns_Footprints
-AUDIO-TH_KH-PJ-313
-
-
-0
-7
-3
-Ashlyns_Footprints
-AUDIO-TH_PJ-307
-
-
-0
-5
-5
-Ashlyns_Footprints
-AUDIO-TH_PJ-611E
-
-
-0
-6
-6
-Ashlyns_Footprints
-AUDIO-TH_PJ-3200
-
-
-0
-5
-3
-Ashlyns_Footprints
-AUDIO-TH_PJ-3220-5A
-
-
-0
-7
-4
-Ashlyns_Footprints
-AUDIO-TH_PJ-3240-5A
-
-
-0
-5
-5
-Ashlyns_Footprints
-BEAD-TH_BD6.0-L14.0-P18.0-D0.5
-
-
-0
-2
-2
-Ashlyns_Footprints
-CONN-SMD_HX-TYPE-C-16PIN
-
-
-0
-22
-17
-Ashlyns_Footprints
-CONN-SMD_USB-A_10.0-QTJ6.3
-
-
-0
-10
-8
-Ashlyns_Footprints
-CONN-TH_3130-10RG0BK00T1
-
-
-0
-10
-10
-Ashlyns_Footprints
-CONN-TH_3130-10SG0BK00T1
-
-
-0
-10
-10
-Ashlyns_Footprints
-CONN-TH_MIDI_DIN5
-Din 5 (MIDI), Pro Signal P/N PSG03463
-
-0
-5
-5
-Ashlyns_Footprints
-CONN-TH_PJ366ST
-T-R-S Vertical mounting jack AKA WQP-WQP419GR, Stereo Thonkiconn
-WQP-WQP419GR Thonkiconn
-0
-3
-3
-Ashlyns_Footprints
-CONN-TH_PJ398SM
-T-S-SN Vertical mount jack AKA WQP-WQP518MA or Thonkiconn
-WQP-WQP518MA, Thonkiconn
-0
-3
-3
-Ashlyns_Footprints
-CONN-TH_ZIF-16Pin
-
-
-0
-16
-16
-Ashlyns_Footprints
-DC-IN-TH_BarrelJack_Horizontal
-DC Barrel Jack
-Power Jack
-0
-3
-3
-Ashlyns_Footprints
-DC-IN-TH_DC-044A-20A
-
-
-0
-4
-3
-Ashlyns_Footprints
-DC-IN-TH_DC044
-
-
-0
-3
-3
-Ashlyns_Footprints
-IND-SMD_L7.3-W7.3-H4.2
-Choke, SMD, 7.3x7.3mm 4.5mm height
-Choke SMD
-0
-2
-2
-Ashlyns_Footprints
-IND-SMD_L12.5-W12.5-H8.0
-Choke, SMD, 12x12mm 8mm height
-Choke SMD
-0
-2
-2
-Ashlyns_Footprints
-IND-SMD_L15.0-W15.0
-
-
-0
-2
-2
-Ashlyns_Footprints
-IND-TH_BD5.5-P2.00-D0.5
-
-
-0
-2
-2
-Ashlyns_Footprints
-IND-TH_BD10.0-P5.00-D0.7
-
-
-0
-2
-2
-Ashlyns_Footprints
-L_Axial_L11mm_D4.0mm_P15.24mm_Horizontal
-Inductor, Axial series, Axial, Horizontal, pin pitch=15.24mm
-Inductor Axial series Axial Horizontal pin pitch 15.24mm  length 11mm diameter 4mm
-0
-2
-2
-Ashlyns_Footprints
-RELAY-TH_HFD27-XXX
-
-
-0
-8
-8
-Ashlyns_Footprints
-RES-ADJ-TH_3362P
-
-
-0
-3
-3
-Ashlyns_Footprints
-RES-ADJ-TH_Potentiometer_Alpha_RD901F-40-00D_Single_Vertical
-Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
-potentiometer vertical 9mm single
-0
-5
-3
-Ashlyns_Footprints
-SDIP-28_W10.16mm_Socket
-
-
-0
-28
-28
-Ashlyns_Footprints
-SDIP-32_L28.0-W8.9-P1.78-LS10.2-BL
-
-
-0
-32
-32
-Ashlyns_Footprints
-SMD-8_L9.8-W6.6-P2.54-LS10.3-BL
-
-
-0
-8
-8
-Ashlyns_Footprints
-SOD-123FL
-
-
-0
-2
-2
-Ashlyns_Footprints
-SOT-23-3
-SOT, 3 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178D.PDF inferred 3-pin variant), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOT TO_SOT_SMD
-0
-3
-3
-Ashlyns_Footprints
-SW-TH_6P-L7.0-W7.0-P2.00
-
-
-0
-6
-6
-Ashlyns_Footprints
-SW-TH_GENERIC_SR16
-
-
-0
-10
-10
-Ashlyns_Footprints
-SW-TH_GENERIC_SR16_DP3T
-
-
-0
-10
-8
-Ashlyns_Footprints
-SW-TH_GENERIC_SR16_DP4T
-
-
-0
-10
-10
-Ashlyns_Footprints
-SW-TH_GENERIC_SR16_SP5T
-
-
-0
-9
-6
-Ashlyns_Footprints
-SW-TH_GENERIC_SR16_SP6T
-
-
-0
-9
-7
-Ashlyns_Footprints
-SW-TH_GENERIC_SR16_SP8T
-
-
-0
-9
-9
-Ashlyns_Footprints
-SW-TH_HOOYA_SS-12DXX-SPDT
-
-
-0
-5
-3
-Ashlyns_Footprints
-SW-TH_HOOYA_SS-13DXX-SP3T
-
-
-0
-4
-4
-Ashlyns_Footprints
-SW-TH_Knitter_MFP211P_DPDT_Straight
-
-
-0
-6
-6
-Ashlyns_Footprints
-SW-TH_Knitter_MFP223P_DP3T_Straight
-
-
-0
-8
-8
-Ashlyns_Footprints
-SW-TH_MT-0-103-A101-M200-RS_SPDT
-
-
-0
-3
-3
-Ashlyns_Footprints
-SW-TH_MT-0-203-A101-M200-RS_DPDT
-
-
-0
-6
-6
-Ashlyns_Footprints
-SW-TH_PUSH-12mm_SPST
-SW PUSH 12mm https://www.e-switch.com/system/asset/product_line/data_sheet/143/TL1100.pdf
-tact sw push 12mm
-0
-4
-2
-Ashlyns_Footprints
-SW-TH_SS-12F23-G040
-
-
-0
-3
-3
-Ashlyns_Footprints
-SW-TH_W5.8mm_P2.0mm_DPDT_Latch
-
-
-0
-6
-6
-Ashlyns_Footprints
-SW-TH_W5.8mm_P2.0mm_DPDT_Momentary
-
-
-0
-6
-6
-Ashlyns_Footprints
-TEST-TH_HARWIN-S2761-46R
-
-
-0
-1
-1
-Ashlyns_Footprints
-TEST-TH_Loop_D2.40mm_Drill0.9mm_Beaded
-
-
-0
-1
-1
+23707527125654128
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2662,7 +2305,7 @@ tactile switch Omron B3F right angle through hole
 Button_Switch_THT
 SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm
 Wuerth, WS-SLTV, 450301014042, https://www.we-online.com/components/products/datasheet/450301014042.pdf
-switch single-pole double-throw SPDT würth wurth
+switch single-pole opposite-side-connection double-throw SPDT würth wurth
 0
 3
 3
@@ -8672,6 +8315,13 @@ Combo Connector microSD and microSIM
 0
 25
 18
+Connector_Card
+SD_Card_Device_16mm_SlotDepth
+SD card device PCB layout, contacts and mechanicalm, 16mm slot depth. Manufacture with PCB thickness of 1.4mm, http://www.convict.lu/pdf/ProdManualSDCardv1.9.pdf
+SD Card
+0
+9
+9
 Connector_Card
 SD_Hirose_DM1AA_SF_PEJ82
 SD, SMD, top-mount, push-push (https://www.hirose.com/product/document?clcode=CL0609-0004-8-82&productname=DM1AA-SF-PEJ(82)&series=DM1&documenttype=2DDrawing&lang=en&documentid=0000915301)
@@ -49721,6 +49371,13 @@ usb usb-c 2.0 pd
 20
 17
 Connector_USB
+USB_C_Receptacle_HRO_TYPE-C-31-M-17
+USB Type-C receptacle for USB 2.0, 6 pin, https://omo-oss-file.thefastfile.com/portal-saas/new2023011311465142457/cms/file/134891b2-9b01-4104-89d3-96207243f692.pdf
+usb usb-c 2.0 pd
+0
+10
+7
+Connector_USB
 USB_C_Receptacle_JAE_DX07S016JA1R1500
 USB TYPE C, USB 2.0, SMT, https://www.jae.com/en/connectors/series/detail/product/id=91780
 USB C Type-C Receptacle SMD USB 2.0
@@ -71269,7 +70926,7 @@ DFN 0.45
 Package_DFN_QFN
 DFN-8-1EP_2x3mm_P0.5mm_EP0.61x2.2mm
 DFN, 8 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-dfn/05081702_c_ddb8.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-DFN NoLead Linear-DDB
+DFN NoLead
 0
 11
 9
@@ -74500,6 +74157,13 @@ ti vqfn-hr rnn0018a
 0
 26
 18
+Package_DFN_QFN
+Texas_RPU0010A_VQFN-HR-10_2x2mm_P0.5mm
+VQFN-HR, 10 Pin (https://www.ti.com/lit/ds/symlink/tps62912.pdf#page=39)
+VQFN-HR NO LEAD
+0
+10
+10
 Package_DFN_QFN
 Texas_RSA_VQFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm
 Texas RSA VQFN, 16 Pin (http://www.ti.com/lit/ds/symlink/msp430g2001.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -87017,6 +86681,13 @@ DPDT relay, Finder 40.52, 8A, 250V, body size 29x12.4mm, height 25mm, pitch 5x7.
 8
 8
 Relay_THT
+Relay_DPDT_Finder_40.62
+DPDT relay, Finder 40.62, 10A, 250V, body size 29x12.4mm, height 25mm, pitch 5x7.5mm, https://cdn.findernet.com/app/uploads/S40EN.pdf
+2-Form-C
+0
+8
+8
+Relay_THT
 Relay_DPDT_Fujitsu_FTR-F1C
 https://www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-f1.pdf
 relay dpdt fujitsu tht
@@ -87219,6 +86890,13 @@ SPDT relay, Finder 40.52, 10/12A, 250V, body size 29x12.4mm, height 25mm, pitch 
 0
 5
 5
+Relay_THT
+Relay_SPDT_Finder_40.61
+SPDT relay, Finder 40.61, 16A, 250V, body size 29x12.4mm, height 25mm, pitch 5x7.5mm, https://cdn.findernet.com/app/uploads/S40EN.pdf
+2-Form-C
+0
+8
+8
 Relay_THT
 Relay_SPDT_Fujitsu_FTR-LYCA005x_FormC_Vertical
 Relay, SPDT Form C, vertical mount, 6A, 5-60V, https://www.fujitsu.com/sg/imagesgig5/ftr-ly.pdf
@@ -89410,6 +89088,13 @@ hall current
 0
 6
 6
+Sensor_Current
+LEM_LA25-NP
+LEM LA 25-NP Current Transducer (https://www.lem.com/sites/default/files/products_datasheets/la%2025-np.pdf)
+Current sensor LEM
+0
+13
+13
 Sensor_Current
 LEM_LA25-P
 LEM Current Transducer (https://www.lem.com/sites/default/files/products_datasheets/la_25-p.pdf)

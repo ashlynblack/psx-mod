@@ -4,7 +4,7 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0.5 -2 0)
+		(at 3.25 -2 0)
 		(layer "F.SilkS")
 		(uuid "72a6d404-5172-498c-a975-2ad09136f8a7")
 		(effects
@@ -15,7 +15,7 @@
 		)
 	)
 	(property "Value" "CONN-SMD_4P"
-		(at 0 2 0)
+		(at 3.25 2 0)
 		(layer "F.Fab")
 		(uuid "3de30e86-7520-43ff-a816-9f9b428b4fdc")
 		(effects
@@ -26,7 +26,7 @@
 		)
 	)
 	(property "Footprint" "CONN-SMD_4P"
-		(at 0 4 0)
+		(at 3.25 4 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
@@ -39,7 +39,7 @@
 		)
 	)
 	(property "Datasheet" ""
-		(at -3.75 0 0)
+		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
@@ -52,7 +52,7 @@
 		)
 	)
 	(property "Description" ""
-		(at -3.75 0 0)
+		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
@@ -64,30 +64,30 @@
 			)
 		)
 	)
-	(attr through_hole)
+	(attr exclude_from_bom)
 	(pad "1" connect roundrect
-		(at -3.75 0)
+		(at 0 0)
 		(size 2 2)
 		(layers "F.Cu" "F.Mask")
 		(roundrect_rratio 0.25)
 		(uuid "947c5df8-4712-446e-8606-c09c53246c48")
 	)
 	(pad "2" connect roundrect
-		(at -1.25 0)
+		(at 2.25 0)
 		(size 2 2)
 		(layers "F.Cu" "F.Mask")
 		(roundrect_rratio 0.25)
 		(uuid "ce2ea335-e005-4f7c-a4ad-f94e15bec415")
 	)
 	(pad "3" connect roundrect
-		(at 1.25 0)
+		(at 4.5 0)
 		(size 2 2)
 		(layers "F.Cu" "F.Mask")
 		(roundrect_rratio 0.25)
 		(uuid "d0d53123-e5a1-40f6-8cb1-ad8fbfde6a68")
 	)
 	(pad "4" connect roundrect
-		(at 3.75 0)
+		(at 6.75 0)
 		(size 2 2)
 		(layers "F.Cu" "F.Mask")
 		(roundrect_rratio 0.25)
